@@ -1,0 +1,6 @@
+{
+  "name": "ContentForge AI",
+  "description": "One Idea. Every Platform. Your Control. Convert one user idea into platform-specific social media content with custom audience, tone, and full refinement control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
